@@ -32,8 +32,8 @@ body    {
     height: 200px;
     background-color: black;
     position: absolute;
-    bottom: 0;
-    right: 0;
+    top: 0;
+    left: 440px;
 }
 
 .box4 {
@@ -41,7 +41,7 @@ body    {
     height: 200px;
     background-color: black;
     position: absolute;
-    bottom: 0;
+    top: 220px;
     left: 0;
 }
 
@@ -50,8 +50,8 @@ body    {
     height: 200px;
     background-color: black;
     position: absolute;
-    bottom: 0;
-    left: 0;
+    top: 220px;
+    left: 220px;
 }
 
 .box6 {
@@ -59,7 +59,60 @@ body    {
     height: 200px;
     background-color: black;
     position: absolute;
-    bottom: 0;
+    top: 440px;
     left: 0;
 }
 
+.box7 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.box8 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    bottom: 220px;
+    right: 0;
+}
+
+.box9 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    bottom: 440px;
+    right: 0;
+}
+
+.box10 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    right: 220px;
+}
+
+.box11 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    right: 440px;
+}
+
+.box12 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    bottom: 220px;
+    right: 220px;
+}
